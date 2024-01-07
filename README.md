@@ -1,4 +1,4 @@
-#CPU JOB Scheduling
+# CPU JOB Scheduling
 
 In this project I have implemented CPU Job Scheduling algorithms.
 To start, go to datagen folder on your command prompt and use.
